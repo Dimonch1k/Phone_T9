@@ -1,0 +1,10 @@
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\bin\Debug\Phone_T9.exe.config
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\bin\Debug\Phone_T9.exe
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\bin\Debug\Phone_T9.pdb
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.csproj.AssemblyReference.cache
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.Properties.Resources.resources
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.csproj.GenerateResource.cache
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.csproj.CoreCompileInputs.cache
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.exe
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.pdb
+C:\Users\dmytro\Desktop\Git\Phone_T9\Phone_T9\obj\Debug\Phone_T9.Phone.resources

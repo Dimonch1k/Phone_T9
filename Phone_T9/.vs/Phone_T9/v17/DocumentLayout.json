@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|c:\\users\\dmytro\\desktop\\git\\phone_t9\\phone_t9\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|c:\\users\\dmytro\\desktop\\git\\phone_t9\\phone_t9\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|c:\\users\\dmytro\\desktop\\git\\phone_t9\\phone_t9\\wordlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|solutionrelative:wordlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|c:\\users\\dmytro\\desktop\\git\\phone_t9\\phone_t9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9400D01F-6CAD-431D-842F-CF4CD8CEE0A8}|Phone_T9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 148,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:23:33.509Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordList.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\WordList.cs",
+              "RelativeDocumentMoniker": "WordList.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\WordList.cs",
+              "RelativeToolTip": "WordList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:36:41.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:40:33.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Phone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\Phone_T9\\Phone_T9\\Phone.cs [Design]",
+              "RelativeToolTip": "Phone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:41:04.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
